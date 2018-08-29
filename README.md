@@ -11,4 +11,4 @@ ITSM framework follows the below process,
 4. Auto - Incident will be processed and details updated to ITSM patform. Status - Closed
 5. Pending - In case of missing information to categorize or process automatically. Status - Pending
 6. Manual - Set in case of any Business errors.
-7. Other the System Error, process goes to the next Incident in the queue.
+7. Other than System Error, process goes to the next Incident in the queue.
